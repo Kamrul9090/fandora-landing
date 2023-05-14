@@ -85,6 +85,11 @@
   font-size: 20px;
 }
 
+
+.btn-t {
+  background-color: #5E4CB6;
+}
+
 @media (max-width:460px) {
   .btn-lg {
     background: linear-gradient(270.53deg, #604DBC 14.72%, #38A1BB 77.9%, #38A1BB 84.87%);
