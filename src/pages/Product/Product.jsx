@@ -6,7 +6,8 @@ import image5 from '../../assets/images/device/bg.png';
 import image6 from '../../assets/images/device/51 (1).png';
 import image7 from '../../assets/images/device/51.png';
 import image8 from '../../assets/images/device/52.png';
-import Carousel from 'react-grid-carousel'
+import Carousel from 'react-grid-carousel';
+
 
 const Product = () => {
     return (
