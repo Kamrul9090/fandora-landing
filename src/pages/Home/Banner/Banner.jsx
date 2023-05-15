@@ -3,7 +3,7 @@ import vector2 from '../../../assets/vector/Frame.png';
 import vector3 from '../../../assets/vector/Frame-2.png';
 import vector4 from '../../../assets/vector/Frame-3.png';
 import vector5 from '../../../assets/vector/Frame-4.png';
-import ellipse from '../../../assets/bage/Ellipse .png';
+import ellipse from '../../../assets/bage/Ellipse.png';
 import './banner.css';
 import Navbar from '../../../shared/Navbar';
 const Banner = () => {
