@@ -1,9 +1,9 @@
 import vector1 from '../../../assets/vector/Group.png';
 import vector2 from '../../../assets/vector/Frame.png';
-import vector3 from '../../../assets/vector/Frame (2).png';
-import vector4 from '../../../assets/vector/Frame (3).png';
-import vector5 from '../../../assets/vector/Frame (4).png';
-import ellipse from '../../../assets/bage/Ellipse .png'
+import vector3 from '../../../assets/vector/Frame-2.png';
+import vector4 from '../../../assets/vector/Frame-3.png';
+import vector5 from '../../../assets/vector/Frame-4.png';
+import ellipse from '../../../assets/bage/Ellipse .png';
 import './banner.css';
 import Navbar from '../../../shared/Navbar';
 const Banner = () => {
@@ -25,7 +25,7 @@ const Banner = () => {
                 </div>
                 <div className='lg:pl-24 lg:space-y-4 space-y-2 pt-[460px] lg:pt-0 text-cyan-dark'>
                     <div className='lg:flex lg:flex-col lg:text-left text-center lg:text-[25px] text-[16px]'>
-                        <h1>The World’s First Pre-NFT Rights <span className='inline lg:block '>and Content Marketplace</span></h1>
+                        <h1>The World s First Pre-NFT Rights <span className='inline lg:block '>and Content Marketplace</span></h1>
                     </div>
                     <button className='uppercase text-sm outline rounded-full w-32 mx-auto lg:mx-0  flex items-center justify-evenly p-2'> <img src={ellipse} alt="" srcSet="" /> <span>Now Live</span></button>
                 </div>
